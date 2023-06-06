@@ -1,0 +1,27 @@
+.myPic{
+    
+    width:13.43rem;
+    height:13.56rem; 
+    box-shadow: 10px 10px #DAB0F4;
+  }
+
+  @media only screen and (min-width:768px){
+
+    .myPic {
+        width:20rem;
+        height:30rem;
+
+       
+    }
+      
+  }
+  @media only screen and (min-width:1024px){
+
+    .myPic {
+        width:32.62rem;
+        height:33.125rem;
+
+       
+    }
+      
+  }

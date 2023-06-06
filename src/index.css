@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Mono:wght@500&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #39354D;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans;
+    color:rgb(210, 182, 248);
+}
+.component{
+    @apply   border
+}
+.bodyTwo{
+    @apply text-jasmine leading-8 text-lg font-medium md:text-2xl md:leading-10
+}
+.hOne{
+    @apply text-iris text-right font-medium text-2xl lg:text-5xl md:text-left md:leading-10
+}
+.bodyOne{
+    @apply text-peach font-light leading-8  text-base md:text-2xl md:leading-10
+}
+
+.showMenu{
+    @apply bg-eggplant absolute inset-y-[70px] right-0 w-52  h-96 text-right font-medium pr-6 
+}
+.hide{
+    @apply hidden   
+}
+
+
+.btn{
+    @apply border-2 border-peach w-40 h-14 font-semibold text-tangerine  hover:text-lavender hover:bg-peach
+}
+
