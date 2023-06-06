@@ -24,7 +24,7 @@ const About = () => {
           <span className="text-tangerine"> &#123;</span>
           <span className="text-tangerine font-bold text-2xl md:text-4xl md:font-semibold">
             {" "}
-            Tara!{" "}
+            Ardalan!{" "}
           </span>
           <span className="text-tangerine"> &#125;</span>
         </p>
