@@ -10,7 +10,7 @@ const SideBarOne = (props) => {
            marginLeft: '1px',
            width:'1px',
            position:'absolute',
-           backgroundColor:'#7B61FF'
+           backgroundColor:'#0500E2'
          }}
          className=" 
         // 

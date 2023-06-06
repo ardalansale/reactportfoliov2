@@ -8,17 +8,17 @@ module.exports = {
     colors: {
       transparent: 'transparent',
       current: 'currentColor',
-      peach: '#FEC5B9',
-      tangerine:'#FE9881',
-      bgdrk:'#39354D',
-      eggplant:'#645E80',
-      lavender:'#8A70FF',
-      iris: '#DAB0F4',
-      jasmine:'#E8D9F4',
+      peach: '#484746',
+      tangerine:'#0500E2',
+      bgdrk:'#efefef',
+      eggplant:'#ADD8FF',
+      lavender:'#0500E2',
+      iris: '#66B6FF',
+      jasmine:'#898889',
       fuchsia:'#d946ef',
       rose:'#f43f5e',
       purple:'#a855f7',
-      violet:'#8b5cf6',
+      violet:'#0500E2',
       cyan:'#22d3ee',
       green:'#4ade80',
      indigo:{
@@ -48,6 +48,7 @@ module.exports = {
       width: {
         '18':'4.8rem',
         '128': '32.62rem',
+      
 
       },
       height:{

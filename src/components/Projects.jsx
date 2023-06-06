@@ -18,20 +18,20 @@ const Projects = () => {
         <SideBarOne height={'2850px'}/>
         <div className="lg:flex">
             <div className="msg  lg:ml-24  lg:w-1/2 mt-10">
-                <p className="bodyOne  mt-5">
+                {/* <p className="bodyOne  mt-5">
                 <span className="text-iris font-medium ">&#62; </span>
                 I enjoy creating things that live on the internet and I am always learning something new. For me the best way to implement the concepts is through projects. So below are a few projects that I have worked on. feel free to check them out.
-                </p>
+                </p> */}
             </div>
            
-        <DownButton/>
+        {/* <DownButton/> */}
         </div>
         <FeatureProject />
 
        {/* {projects &&  <ProjectList 
          projects={projects}
          />} */}
-            <ProjectList/>
+            {/* <ProjectList/> */}
 
     </div>
     

@@ -4,7 +4,7 @@
 @tailwind utilities;
 
 body{
-    background-color: #39354D;
+    background-color: #efefef;
     font-family: "Helvetica Neue",Helvetica,Arial,sans;
     color:rgb(210, 182, 248);
 }

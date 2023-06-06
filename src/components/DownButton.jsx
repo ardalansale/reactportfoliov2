@@ -23,7 +23,7 @@ const DownButton = () => {
           transition={{repeat:Infinity, duration:3, ease:'easeInOut'}}
         ></motion.div>
         <motion.div
-          className="w-2.5 h-2.5 mb-2.5 border border-bgdrk rounded-full -z[2] "
+          className="w-2.5 h-2.5 mb-2.5 border border-rose rounded-full -z[2] "
           initial={{ 
             width:'12px',
             height:'12px',
@@ -58,12 +58,12 @@ const DownButton = () => {
         className=" chevron text-tangerine mt-[-15px] mx-auto "
         initial={{
           y:-20,
-          color:"#8A70FF"
+          color:"#0500E2"
         }}
 
         animate={{
             y:[0, -20, -20, 0, 0],
-            color:["#FE9881", "#8A70FF","#8A70FF", "#FE9881","#FE9881"]
+            color:["#ADD8FF", "#0500E2","#0500E2", "#ADD8FF","#ADD8FF"]
         }}
         transition={{repeat:Infinity, duration:3, ease:'easeInOut'}}
       >

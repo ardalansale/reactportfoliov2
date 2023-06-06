@@ -2,7 +2,7 @@ import React from "react";
 import SideBarOne from "./SideBarOne";
 import Logo from "../Logo-peach.png";
 import MbLogo from "../Logo-mb.png"
-import { motion } from "framer-motion";
+// import { motion } from "framer-motion";
 
 const Contact = () => {
   return (
@@ -21,13 +21,13 @@ const Contact = () => {
           </p>
 
           <button className="border-[3px] border-tangerine text-peach text-xl p-4 mt-10">
-            <a href="mailto:taraneh.saleh@gmail.com?subject=Sayin Hi">Send me an email &gt;</a>
+            <a href="mailto:ardalansaleh@gmail.com?subject=Sayin Hi">Send me an email &gt;</a>
 
           </button>
 
           <div className="social  text-jasmine flex  justify-between w-24 h-10 mt-8">
             <div className="socOne w-10">
-              <a href="https://github.com/T4r4n3h" target="_blank">
+              <a href="https://linkedin.com/in/ardalansaleh" target="_blank">
                 <svg
                   style={{
                     width: "45",
@@ -44,8 +44,8 @@ const Contact = () => {
                 </svg>
               </a>
             </div>
-            <div className="socTwo w-10  ">
-              <a href="https://www.linkedin.com/in/tara-saleh/" target="_blank">
+            <div className="socTwo  w-10  ">
+              <a href="https://www.github.com/ardalansaleh" target="_blank">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="45"
@@ -64,7 +64,7 @@ const Contact = () => {
           </div>
         </div>
         <div className="hidden lg:flex right md:h-32 md:w-[359px] md:my-24   items-center">
-        <div className="svgs ">
+        {/* <div className="svgs ">
           <motion.svg
           className="1 absolute mt-[-50px]"
         
@@ -150,8 +150,8 @@ const Contact = () => {
               fill="#FE9881"
               />
           </motion.svg>
-        </div>
-        <motion.h1
+        </div> */}
+        {/* <motion.h1
           className="text-right text-peach ml-40 mt-10 "
           style={{
             fontFamily: "fira mono, monospace",
@@ -165,8 +165,8 @@ const Contact = () => {
 
           
         >
-          taraSaleh
-        </motion.h1>
+          ardalanSaleh
+        </motion.h1> */}
       </div>
       </div>
       <div className="md:hidden mx-auto mt-10">

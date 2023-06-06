@@ -2,8 +2,8 @@ import React from "react";
 import { motion } from "framer-motion";
 import styles from "./About.module.css";
 import SideBarOne from "./SideBarOne";
-import myPic from "../myPic.png";
-import pdf from '../resume.pdf';
+import myPic from "../Ardalan.png";
+import pdf from '../ArdalanCV.pdf';
 
 
 
@@ -30,21 +30,16 @@ const About = () => {
         </p>
         <p className="bodyTwo xl:ml-44">
           <span className="text-iris"> &#62; </span>
-          Full-Stack Developer
+          UX/UI Designer
         </p>
         <p className="bodyTwo xl:ml-44">
-          <span className="text-iris"> &#62; </span> Creative Coder
+          <span className="text-iris"> &#62; </span> Product Designer
         </p>
-        <p className="bodyTwo xl:ml-44">
-          <span className="text-iris"> &#62; </span> Hackathon Winner 
-        </p>
+      
         <p className="bodyOne xl:ml-44 mt-5">
-          <span className="text-iris font-medium ">&#62; </span>I am a Full
-          Stack developer based in Toronto with a background in various
-          industries such as Stakeholder Relations, Legal Consultancy and
-          Business Development. I found software development merging all three
-          areas of my interest and skill set involving creativity, logistics and
-          analytics.
+          <span className="text-iris font-medium text-justify">&#62; </span>
+          
+          As a problem solver, my primary objective is to develop solutions that are user-friendly, practical, and centered around the user. My design approach and skill set is continuously evolving as I leverage my interest in web design, human behavior and understanding of how things work.I hold a 2-year degree in Experience Design from Changemaker Educations. Currently, I'm learning front-end development at Chas Academy, which will enable me to effectively convey my ideas to developers and actively participate in the development process.
         </p>
 
         <div className="ResumeComponent lg:ml-44 btnbck bg-lavender hover:bg-bgdrk text-jasmine text-center  w-28 h-11 rotate-[-17deg] mt-16 mb-2">
