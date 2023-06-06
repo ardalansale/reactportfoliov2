@@ -28,11 +28,11 @@ const FeatureProject = () => {
         </button>
       </div>
 
-      <div className="hidden lg:inline-block z-10 ProjectPic  w-[390px] h-[812px]  rounded-2xl ml-10 mt-[-210px]"
+      <div className="hidden lg:inline-block z-10 ProjectPic  w-96 h-[812px]   rounded-2xl ml-10 mt-[-210px]"
           style={{ 
               backgroundImage:`url(${Background})`,
               backgroundPosition: 'center',
-              backgroundSize: 'cover',
+              backgroundSize: 'contain',
               backgroundRepeat: 'no-repeat'
           }}
       >

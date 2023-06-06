@@ -1,19 +1,15 @@
 import React from "react";
 import Stack from "./Stack";
-import Background from '../innertuner.png'
+import Background from '../FK-MOCKUP.png'
 const FeatureMbl = () => {
   return (
     <>
       <div className="Featuremobile  lg:hidden mt-16">
         <div className="msg  ">
-          <h2 className="bodyTwo"> &#60; INNERTUNER /&gt;</h2>
+          <h2 className="bodyTwo"> &#60; Försäkringskassan /&gt;</h2>
           <p className="bodyOne  mt-5">
             <span className="text-iris font-medium ">&#62; </span>
-            this is InnerTuner Lorem ipsum dolor sit amet consectetur
-            adipisicing elit. Blanditiis exercitationem facilis explicabo?
-            Velit, doloremque consequatur soluta eligendi iusto omnis animi!
-            Sapiente praesentium maxime quam ipsa cupiditate quae aperiam
-            laboriosam ratione.
+            I wanted to revamp their app and improve the user experience for parents who need to schedule VAB (care of sick child) and parental benefits. They recognized that their previous design had become outdated and wanted to give the app a fresh and modern design. Additionally, they aimed to make information about parental benefits and VAB-days more understandable for users.
           </p>
 
           <Stack />

@@ -11,7 +11,7 @@ const NavMbl = (props) => {
       // transition={{ type: 'spring', stiffness: 120 }}
 
       className={props.showMenu}
-      style={{ boxShadow: " -5px 5px #8A70FF", zIndex: "1" }}
+      style={{ boxShadow: " -5px 5px #ADD8FF", zIndex: "1" }}
     >
       <ul className=" mt-6 pt-3">
         <li className="my-7">

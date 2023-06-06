@@ -170,7 +170,7 @@ const Contact = () => {
       </div>
       </div>
       <div className="md:hidden mx-auto mt-10">
-        <img className="mx-auto" src={MbLogo} alt="" />
+        {/* <img className="mx-auto" src={MbLogo} alt="" /> */}
       </div>
 
 

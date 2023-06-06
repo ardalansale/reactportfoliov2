@@ -6,7 +6,7 @@ const Header = () => {
   return( 
   <div className="
   
-  bg-eggplant md:bg-bgdrk
+  bg-bgdrk 
   h-20 text-jasmine
   flex items-center  ">
        
