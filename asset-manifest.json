@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactportfoliov2/static/css/main.6fa0c19d.css",
+    "main.js": "/reactportfoliov2/static/js/main.5516b1d6.js",
+    "static/media/ArdalanCV.pdf": "/reactportfoliov2/static/media/ArdalanCV.a05b26885830ac050d3e.pdf",
+    "static/media/Ardalan.png": "/reactportfoliov2/static/media/Ardalan.04743af9d41689b758a8.png",
+    "static/media/FK-MOCKUP.png": "/reactportfoliov2/static/media/FK-MOCKUP.5d631c45990d6c57eb95.png",
+    "index.html": "/reactportfoliov2/index.html",
+    "main.6fa0c19d.css.map": "/reactportfoliov2/static/css/main.6fa0c19d.css.map",
+    "main.5516b1d6.js.map": "/reactportfoliov2/static/js/main.5516b1d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fa0c19d.css",
+    "static/js/main.5516b1d6.js"
+  ]
+}
