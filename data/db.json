@@ -1,17 +1,17 @@
 {
 "projects": [
-      {
-          "id": 1,
-          "title": "InnerTuner",
-          "description": "This app i s built for users who are looking to incorporate and track their daily routine. Is will allow the user to track and monitor their sleep, exercise and water intake.",
-          "stack":{
-              "language":"Javascript",
-              "frontend":"React",
-              "backend":"Express",
-              "database":"MongoDb",
-              "Other": "Tailwindcss Library"
-          },
-          "contributors":["Jane Lee", "Yousuf Hussain", "Alistair Kin", "Rebecca Lasagna"]
+    {
+        "id": 1,
+        "title": "InnerTuner",
+        "description": "This app i s built for users who are looking to incorporate and track their daily routine. Is will allow the user to track and monitor their sleep, exercise and water intake.",
+        "stack":{
+            "language":"Javascript",
+            "frontend":"React",
+            "backend":"Express",
+            "database":"MongoDb",
+            "Other": "Tailwindcss Library"
+        },
+        "contributors":["Jane Lee", "Yousuf Hussain", "Alistair Kin", "Rebecca Lasagna"]
       },
       {
           "id": 2,

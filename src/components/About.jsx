@@ -39,7 +39,7 @@ const About = () => {
         <p className="bodyOne xl:ml-44 mt-5">
           <span className="text-iris font-medium text-justify">&#62; </span>
           
-          As a problem solver, my primary objective is to develop solutions that are user-friendly, practical, and centered around the user. My design approach and skill set is continuously evolving as I leverage my interest in web design, human behavior and understanding of how things work.I hold a 2-year degree in Experience Design from Changemaker Educations. Currently, I'm learning front-end development at Chas Academy, which will enable me to effectively convey my ideas to developers and actively participate in the development process.
+          As a problem solver, my primary objective is to develop solutions that are user-friendly, practical, and centered around the user. My design approach and skill set is continuously evolving as I leverage my interest in web design, human behavior and understanding of how things work. I hold a 2-year degree in Experience Design from Changemaker Educations. Currently, I'm learning front-end development at Chas Academy, which will enable me to effectively convey my ideas to developers and actively participate in the development process.
         </p>
 
         <div className="ResumeComponent lg:ml-44 btnbck bg-lavender hover:bg-bgdrk text-jasmine text-center  w-28 h-11 rotate-[-17deg] mt-16 mb-2">
