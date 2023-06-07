@@ -11,7 +11,7 @@ const Header = () => {
   flex items-center  ">
        
       <NavBar/>
-     
+    
   </div>
   
   

@@ -23,11 +23,11 @@ const App = () => {
       <About />
       <Projects />
       <Contact />
-     
+    
   
 
       
-   
+  
 
 
 

@@ -1,8 +1,7 @@
 import React from "react";
 import SideBarOne from "./SideBarOne";
-import Logo from "../Logo-peach.png";
-import MbLogo from "../Logo-mb.png"
-// import { motion } from "framer-motion";
+
+
 
 const Contact = () => {
   return (
@@ -64,113 +63,11 @@ const Contact = () => {
           </div>
         </div>
         <div className="hidden lg:flex right md:h-32 md:w-[359px] md:my-24   items-center">
-        {/* <div className="svgs ">
-          <motion.svg
-          className="1 absolute mt-[-50px]"
-        
-          animate={{
-            rotateX: [0,360,360, 0, 0],
-            y:[22, 0, 0, 22,22]
-            
-          }}
-
-          transition={{repeat:Infinity, duration:3, ease:'easeInOut'}}
-
-            width="127"
-            height="68"
-            viewBox="0 0 56 30"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M28 0L56 15L45.5 20.625C43.1804 19.3823 39.4196 19.3823 37.1 20.625C34.7804 21.8676 34.7804 23.8823 37.1 25.125L28 30L18.2 24.75C15.8804 25.9926 12.1196 25.9926 9.79999 24.75C7.4804 23.5073 7.4804 21.4926 9.79999 20.25L0 15L28 0Z"
-              fill="#DEC4F4"
-            />
-          </motion.svg>
-
-
-          <motion.svg
-            className="2 absolute -z-10  mt-[-30px]"
-         
-           animate={{
-            rotateX: [0, 360,360, 0, 0],
-             y:[12, 0, 0, 12,12]
-             
-           }}
-           transition={{repeat:Infinity, duration:3, ease:'easeInOut'}}
-           width="127"
-           height="68"
-            viewBox="0 0 56 30"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M28 30L3.56436e-05 15L10.5 9.37501C12.8196 10.6177 16.5804 10.6177 18.9 9.37501C21.2196 8.13237 21.2196 6.11766 18.9 4.87502L28 2.23477e-05L37.8 5.25002C40.1196 4.00738 43.8804 4.00738 46.2 5.25002C48.5196 6.49266 48.5196 8.50738 46.2 9.75002L56 15L28 30Z"
-              fill="#FEC5B9"
-            />
-          </motion.svg>
-          <motion.svg
-            className="3  absolute  mt-[-10px] -z-20"
-            animate={{
-              rotateX: [0, 360,360, 0, 0],
-               y:[2, 0, 0, 2,2]
-               
-             }}
-             transition={{repeat:Infinity, duration:3, ease:'easeInOut'}}
-             width="127"
-            height="68"
-            viewBox="0 0 56 30"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M28 0L3.43323e-05 15L10.5 20.625C12.8196 19.3823 16.5804 19.3823 18.9 20.625C21.2196 21.8676 21.2196 23.8823 18.9 25.125L28 30L37.8 24.75C40.1196 25.9926 43.8804 25.9926 46.2 24.75C48.5196 23.5073 48.5196 21.4926 46.2 20.25L56 15L28 0Z"
-              fill="#8A70FF"
-            />
-          </motion.svg>
-          <motion.svg
-           className="4  absolute -z-30 mt-[10px]"
-         
-            animate={{
-              rotateX: [0,360,360, 0, 0],
-              y:[-10, 0, 0, -10,-10]
-               
-             }}
-             transition={{repeat:Infinity, duration:3, ease:'easeInOut'}}
-             
-             
-             width="127"
-             height="68"
-             viewBox="0 0 56 30"
-             fill="none"
-             xmlns="http://www.w3.org/2000/svg"
-             >
-            <path
-              d="M28 30L56 15L45.5 9.37503C43.1804 10.6177 39.4196 10.6177 37.1 9.37503C34.7804 8.13239 34.7804 6.11767 37.1 4.87503L28 3.35059e-05L18.2 5.25003C15.8804 4.00739 12.1196 4.00739 9.8 5.25002C7.4804 6.49266 7.4804 8.50738 9.8 9.75002L2.62268e-06 15L28 30Z"
-              fill="#FE9881"
-              />
-          </motion.svg>
-        </div> */}
-        {/* <motion.h1
-          className="text-right text-peach ml-40 mt-10 "
-          style={{
-            fontFamily: "fira mono, monospace",
-            fontSize: "36px",
-            fontWeight: "bold"
-          }}
-          // animate={{
-          //   color:['#FE9881','#8A70FF','#FEC5B9', '#FEC5B9','#FE9881'  ]
-          // }}
-          // transition={{repeat:Infinity, duration:3, ease:'easeInOut'}}
-
-          
-        >
-          ardalanSaleh
-        </motion.h1> */}
+   
       </div>
       </div>
       <div className="md:hidden mx-auto mt-10">
-        {/* <img className="mx-auto" src={MbLogo} alt="" /> */}
+       
       </div>
 
 

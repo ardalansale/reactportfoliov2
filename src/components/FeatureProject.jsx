@@ -1,5 +1,5 @@
 import React from "react";
-import Stack from "./Stack";
+
 import Background from '../FK-MOCKUP.png'
 import FeatureMbl from "./FeatureMbl";
 const FeatureProject = () => {

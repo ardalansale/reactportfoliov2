@@ -42,9 +42,7 @@ const NavBar = () => {
           <li className="mx-3">
             <Link to="Contact" smooth="true" duration={1000}> &gt; Contact</Link>
           </li>
-          {/* <li className="ml-3">
-            <Link to="/blog"> &gt; Blog</Link>
-          </li> */}
+          
         </ul>
       </div>
       <div className="md:hidden">

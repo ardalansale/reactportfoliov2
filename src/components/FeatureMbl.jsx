@@ -1,5 +1,5 @@
 import React from "react";
-import Stack from "./Stack";
+
 import Background from '../FK-MOCKUP.png'
 const FeatureMbl = () => {
   return (
@@ -12,7 +12,7 @@ const FeatureMbl = () => {
             I wanted to revamp their app and improve the user experience for parents who need to schedule VAB (care of sick child) and parental benefits. They recognized that their previous design had become outdated and wanted to give the app a fresh and modern design. Additionally, they aimed to make information about parental benefits and VAB-days more understandable for users.
           </p>
 
-          <Stack />
+   
 
           <button className=" btn mt-8">
           <a href="https://ardalansaleh.com/forsakringskassan" target="_blank">
