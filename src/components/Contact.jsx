@@ -10,7 +10,7 @@ const Contact = () => {
       <h1 className="hOne"> &#60; Contact /&gt; </h1>
       <SideBarOne height={'578px'}/>
       <div className="main md:flex  md:ml-10 md:mr-36 md:mt-20">
-        <div className="left md:w-128  mr-52">
+        <div className="left md:w-128 ">
           <p className="text-iris leading-8 text-lg font-medium md:text-2xl md:leading-10  ">
             Let's
             <span className="text-tangerine"> &#123; Get In Touch &#125;</span>

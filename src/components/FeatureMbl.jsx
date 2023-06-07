@@ -14,7 +14,13 @@ const FeatureMbl = () => {
 
           <Stack />
 
-          <button className=" btn mt-8">Learn More &gt;</button>
+          <button className=" btn mt-8">
+          <a href="https://ardalansaleh.com/forsakringskassan" target="_blank">
+
+                Learn More &gt;
+                      </a>
+          
+          </button>
         </div>
 
             <div className="cover block flex justify-center  mt-10">

@@ -22,7 +22,7 @@ const FeatureProject = () => {
         <button className=" btn mt-8">
           <a href="https://ardalansaleh.com/forsakringskassan" target="_blank">
 
-          Check it Out &gt;
+         Learn More &gt;
           </a>
         
         </button>
