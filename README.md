@@ -1,6 +1,6 @@
 # Reactportfolio
 
-This portfolio was done for a class project. Utilized react.js as a framework for single page application and TailwindCSS for styling. I hope you enjoy. Feel free to let me if there is anything I should improve.
+This portfolio was done for a class project. Utilized react.js as a framework for single page application and Tailwind CSS for styling. I hope you enjoy. Feel free to let me if there is anything I should improve.
 
 ## Link
 
