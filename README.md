@@ -4,7 +4,7 @@ This portfolio was done for a class project. Utilized react.js as a framework fo
 
 ## Link
 
-Portfolio: [Check it out](https://ardalansaleh.github.io/reactportfoliov2/)
+Portfolio: [Check it out](https://ardalansale.github.io/reactportfoliov2/)
 
 ## Run Locally
 To run this code locally, please run the following commands:
